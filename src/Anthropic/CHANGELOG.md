@@ -1,5 +1,13 @@
 # Changelog
 
+## 12.5.0 (2026-02-05)
+
+Full Changelog: [Anthropic-v12.4.0...Anthropic-v12.5.0](https://github.com/anthropics/anthropic-sdk-csharp/compare/Anthropic-v12.4.0...Anthropic-v12.5.0)
+
+### Features
+
+* **client:** streaming aggregators ([#105](https://github.com/anthropics/anthropic-sdk-csharp/issues/105)) ([2f17663](https://github.com/anthropics/anthropic-sdk-csharp/commit/2f17663e760c8cc450b138447b22cc4a1ea6861f))
+
 ## 12.4.0 (2026-02-05)
 
 Full Changelog: [Anthropic-v12.3.0...Anthropic-v12.4.0](https://github.com/anthropics/anthropic-sdk-csharp/compare/Anthropic-v12.3.0...Anthropic-v12.4.0)
